@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.scratch/
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+.terraform/
+.terraform.lock.hcl
+authorized-key.json
+sa-key.json
+terraform.exe
